@@ -1,13 +1,5 @@
 # Best Web Features of 2019
 
-### Video:
-
-- [Part 1/4](https://www.youtube.com/watch?v=Xtmp2HbSreQ)
-- [Part 2/4](https://www.youtube.com/watch?v=eCGW0FKZ1gg)
-- [Part 3/4](https://www.youtube.com/watch?v=1q2ZlT3X36k)
-- Part 4/4
-
-
 ### Links:
 
 - [Numeric Separators](https://v8.dev/features/numeric-separators)
@@ -22,3 +14,14 @@
 - [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
 - [MediaSession.setActionHandler()](https://developer.mozilla.org/en-US/docs/Web/API/MediaSession/setActionHandler)
 - [Background Fetch](https://developers.google.com/web/updates/2018/12/background-fetch)
+- [Prefers Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
+- [Native Lazy Loading](https://web.dev/native-lazy-loading/)
+- [More capable form controls](https://web.dev/more-capable-form-controls/)
+- [Object.fromEntries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries)
+
+### Videos:
+
+- [Part 1/4](https://www.youtube.com/watch?v=Xtmp2HbSreQ)
+- [Part 2/4](https://www.youtube.com/watch?v=eCGW0FKZ1gg)
+- [Part 3/4](https://www.youtube.com/watch?v=1q2ZlT3X36k)
+- [Part 4/4](https://www.youtube.com/watch?v=nQrfbk5WHvY)
